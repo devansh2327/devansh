@@ -1,5 +1,4 @@
-# devansh
-hello world,this is my profile
+
 <h1 align="center">Hi 👋, I'm Devansh Gaur</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
